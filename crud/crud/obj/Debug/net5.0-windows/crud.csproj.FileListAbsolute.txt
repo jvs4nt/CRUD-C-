@@ -1,0 +1,7 @@
+C:\Users\win\Desktop\crud\crud\obj\Debug\net5.0-windows\crud.csproj.AssemblyReference.cache
+C:\Users\win\Desktop\crud\crud\obj\Debug\net5.0-windows\crud.Form1.resources
+C:\Users\win\Desktop\crud\crud\obj\Debug\net5.0-windows\crud.csproj.GenerateResource.cache
+C:\Users\win\Desktop\crud\crud\obj\Debug\net5.0-windows\crud.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\win\Desktop\crud\crud\obj\Debug\net5.0-windows\crud.AssemblyInfoInputs.cache
+C:\Users\win\Desktop\crud\crud\obj\Debug\net5.0-windows\crud.AssemblyInfo.cs
+C:\Users\win\Desktop\crud\crud\obj\Debug\net5.0-windows\crud.csproj.CoreCompileInputs.cache
